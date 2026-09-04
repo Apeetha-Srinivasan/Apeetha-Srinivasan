@@ -89,6 +89,8 @@ Medium Order
 High Order
 Very High Order
 
+---
+
 Exploratory Data Analysis
 
 The following analyses were performed:
@@ -114,6 +116,8 @@ November recorded the highest monthly sales, with approximately 1.49M in sales, 
 
 Transaction activity was highest during the late morning and afternoon hours, with sales activity declining during the evening.
 
+---
+
 👥 Customer Behaviour
 
 Customers were analyzed based on their purchasing frequency.
@@ -133,6 +137,8 @@ Other high-value customers included:
 
 Identifying high-value customers can help businesses develop targeted retention and loyalty strategies.
 
+---
+
 🛒 Top-Selling Products
 
 The top product based on quantity sold was:
@@ -140,12 +146,16 @@ The top product based on quantity sold was:
 WHITE HANGING HEART T-LIGHT HOLDER
 with approximately 67,845 units sold.
 
+---
+
 Other high-performing products included:
 
 WORLD WAR 2 GLIDERS ASSTD DESIGNS
 JUMBO BAG RED RETROSPOT
 POPCORN HOLDER
 ASSORTED COLOUR BIRD ORNAMENT
+
+---
 
 📈 Visualizations
 
@@ -165,6 +175,8 @@ Peak sales hour analysis
 Top 10 high-value customers
 Top 10 products by quantity sold
 
+---
+
 💡 Key Business Insights
 
 Sales Insights
@@ -173,15 +185,21 @@ November recorded the highest monthly sales.
 Sales activity is concentrated around the late morning and afternoon.
 Sales increase considerably toward the end of the year.
 
+---
+
 Customer Insights
 A large number of transactions come from less-frequent customers.
 A small group of high-value customers contributes significantly to revenue.
 Customer segmentation can support targeted marketing and retention strategies.
 
+---
+
 Product Insights
 WHITE HANGING HEART T-LIGHT HOLDER is the highest-selling product by quantity.
 A relatively small number of products account for a significant portion of product demand.
 Top-selling products can be prioritized for inventory planning and promotions.
+
+---
 
 📌 Business Recommendations
 
@@ -193,6 +211,8 @@ Maintain sufficient inventory for high-demand products.
 Use customer segmentation to create targeted marketing campaigns.
 Explore opportunities to increase sales in international markets with strong purchasing activity.
 Investigate low-frequency customers and develop strategies to encourage repeat purchases.
+
+---
 
 🚀 Conclusion
 
@@ -208,6 +228,8 @@ High-value customers
 Peak purchasing periods
 
 These insights can help businesses improve inventory planning, customer retention, marketing strategies, and revenue optimization.
+
+---
 
 👩‍💻 Author
 
