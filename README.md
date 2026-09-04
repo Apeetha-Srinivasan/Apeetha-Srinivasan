@@ -61,7 +61,7 @@ After cleaning, the dataset contained approximately **535K transaction records**
 
 Several new features were created to support further analysis:
 
-### Total Price
+**Total Price**
 
 ```python
 TotalPrice = Quantity × UnitPrice
@@ -103,6 +103,7 @@ Netherlands
 EIRE
 Germany
 France
+
 📅 Monthly Sales Analysis
 
 Sales increased significantly toward the end of the year.
@@ -137,7 +138,6 @@ Identifying high-value customers can help businesses develop targeted retention 
 The top product based on quantity sold was:
 
 WHITE HANGING HEART T-LIGHT HOLDER
-
 with approximately 67,845 units sold.
 
 Other high-performing products included:
@@ -146,6 +146,7 @@ WORLD WAR 2 GLIDERS ASSTD DESIGNS
 JUMBO BAG RED RETROSPOT
 POPCORN HOLDER
 ASSORTED COLOUR BIRD ORNAMENT
+
 📈 Visualizations
 
 The project includes several visualizations:
@@ -163,20 +164,25 @@ Pairplot
 Peak sales hour analysis
 Top 10 high-value customers
 Top 10 products by quantity sold
+
 💡 Key Business Insights
+
 Sales Insights
 United Kingdom is the dominant market by transaction volume and revenue.
 November recorded the highest monthly sales.
 Sales activity is concentrated around the late morning and afternoon.
 Sales increase considerably toward the end of the year.
+
 Customer Insights
 A large number of transactions come from less-frequent customers.
 A small group of high-value customers contributes significantly to revenue.
 Customer segmentation can support targeted marketing and retention strategies.
+
 Product Insights
 WHITE HANGING HEART T-LIGHT HOLDER is the highest-selling product by quantity.
 A relatively small number of products account for a significant portion of product demand.
 Top-selling products can be prioritized for inventory planning and promotions.
+
 📌 Business Recommendations
 
 Based on the analysis:
